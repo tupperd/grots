@@ -1,2 +1,1 @@
-# gitops-log-generator
 # grots
